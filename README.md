@@ -53,20 +53,6 @@ I've recently been quite obsessed with security tooling. There's a lack of any r
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=MEGA100can&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MEGA100can&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
 ## Reach Me
 
 <div align="center">
