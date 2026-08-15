@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm MEGA100can 👋
+# Hey, I'm MEGA100can.
 
 **Roblox game developer** · Luau · security tooling
 
@@ -16,15 +16,11 @@
 
 ## About
 
-I build multiplayer Roblox experiences in **Luau**, and I write the tooling that keeps them
-honest — static analysis, runtime analysis, and type checking across a multi-game workspace.
+I work on Roblox games for fun, and to help out friends. I also do scripting commisions.
 
-- 🎮 Currently building a handful of Roblox games (combat, sports, and sandbox genres)
-- 🛡️ Maintaining a **Runtime Analysis Engine** — SAST + DAST correlation with attack-chain recovery
-- 🧰 Big believer in server-authoritative design; the client is never trusted
-- 📚 Always learning — right now: performance profiling and netcode
+I'm currently in the process of shifting over Git repos I've made locally towards GitHub.
 
-<!-- Edit the lines above to taste. -->
+I've recently been quite obsessed with security tooling. There's a lack of any reliable SAST/DAST tools for Roblox, so I decided to make some myself.
 
 ---
 
@@ -35,6 +31,9 @@ honest — static analysis, runtime analysis, and type checking across a multi-g
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ![Rojo](https://img.shields.io/badge/Rojo-D14836?style=for-the-badge&logoColor=white)
@@ -50,13 +49,8 @@ honest — static analysis, runtime analysis, and type checking across a multi-g
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Roblox Game Suite** | Several in-development multiplayer experiences | Luau · Rojo |
-| **Runtime Analysis Engine** | Security scanner correlating static + dynamic findings into attack chains | Python |
-| **luau-check** | Syntax and `--!strict` type checker wired into every build | Python · Luau |
-
-<!-- Swap in real repo links once they're public:
-| [**repo-name**](https://github.com/MEGA100can/repo-name) | Description | Stack |
--->
+| **Interlinked Trollge Universes** | Just a game I'm working on with a couple of friends. | Luau · Rojo |
+| **Oblivion** | Also a game I'm working on with people I've met. | Luau |
 
 ---
 
@@ -79,18 +73,14 @@ honest — static analysis, runtime analysis, and type checking across a multi-g
 
 <div align="center">
 
-<!-- Replace the placeholder URLs below with your real handles, then delete this comment. -->
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEGA100can)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID_HERE)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/YOUR_ID/profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosure77@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1155884607170941013)
+[![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/2428893503/profile)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Thanks for stopping by ⭐</sub>
+<sub>Thank you for stopping by!</sub>
 </div>
