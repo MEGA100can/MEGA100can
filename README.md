@@ -16,7 +16,7 @@
 
 ## About
 
-I work on Roblox games for fun, and to help out friends. I also do scripting commisions.
+I work on Roblox games for fun, and to help out friends. I also do scripting commissions.
 
 I'm currently in the process of shifting over Git repos I've made locally towards GitHub.
 
@@ -33,12 +33,11 @@ I've recently been quite obsessed with security tooling. There's a lack of any r
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white)
 
 ![Rojo](https://img.shields.io/badge/Rojo-D14836?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
@@ -58,12 +57,11 @@ I've recently been quite obsessed with security tooling. There's a lack of any r
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MEGA100can&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="MEGA100can's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEGA100can&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=MEGA100can&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=MEGA100can&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MEGA100can&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
